@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pth
+.ipynb_checkpoints/
+*.safetensors
+Task1/saved_model/
+Task1/*.csv
+Task2/train/
+Task2/test/
