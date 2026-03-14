@@ -40,8 +40,8 @@ This portfolio contains two AI/ML tasks developed for GreenBin Recycling:
 
 | Task | Model | Accuracy | Macro F1 |
 |------|-------|----------|----------|
-| Task 1 | DistilBERT (fine-tuned) | 95.91% | 96.13% |
-| Task 2 | ResNet-50 V2 + TTA | 95.42% | 95.18% |
+| Task 1 | Soft-Voting Ensemble (DistilBERT + RoBERTa) | 95.24% | 95.53% |
+| Task 2 | Soft-Voting Ensemble (ResNet-18 + ResNet-50 V2) | 96.24% | 96.04% |
 
 ## AI Usage Declaration
 
