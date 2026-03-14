@@ -1,4 +1,4 @@
-# UWE AI Portfolio — GreenBin Recycling
+# UWE AI Portfolio: GreenBin Recycling
 
 ## Overview
 
